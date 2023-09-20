@@ -3805,3 +3805,20 @@ p.form-message.error {
     margin-top: -50px;
     margin-bottom: -80px;
 }
+
+.brand-name{
+    margin-left: 100px;
+    margin-right: -400px;
+    margin-top: -20px;
+    color: #07294d;
+}
+
+.single-slider {
+    background-image:
+    linear-gradient(45deg,
+      rgba(255, 252, 81, 0.50),
+      #07294d), url(
+'https://www.mygov.in/ppc/1800X500_ppc2023.jpg') !important;
+   height: 650px;
+}
+
